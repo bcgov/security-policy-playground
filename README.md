@@ -14,10 +14,10 @@ Preference throughout: a GitHub Enterprise org setting beats a composite action 
 
 | Draft | Control |
 | :--- | :--- |
-| [secrets-and-credentials](policies/secrets-and-credentials.md) | Secret scanning, push protection, rotation |
-| [sast-and-code-quality](policies/sast-and-code-quality.md) | CodeQL, SonarCloud |
-| [supply-chain-and-containers](policies/supply-chain-and-containers.md) | SBOM, attestations, image CVEs, dependency review |
-| [iac-and-dast](policies/iac-and-dast.md) | Checkov/Trivy manifest scanning, OWASP ZAP |
+| [secrets-and-credentials](secrets-and-credentials.md) | Secret scanning, push protection, rotation |
+| [sast-and-code-quality](sast-and-code-quality.md) | CodeQL, SonarCloud |
+| [supply-chain-and-containers](supply-chain-and-containers.md) | SBOM, attestations, image CVEs, dependency review |
+| [iac-and-dast](iac-and-dast.md) | Checkov/Trivy manifest scanning, OWASP ZAP |
 
 ## Three corrections worth reading first
 
